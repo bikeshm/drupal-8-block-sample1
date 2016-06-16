@@ -1,0 +1,9 @@
+name: Sample Block
+type: module
+description: 'Example Block for Drupal 8.'
+package: Custom
+version: 8.x
+core: 8.x
+dependencies:
+  - node
+  - block
